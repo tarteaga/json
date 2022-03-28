@@ -1,0 +1,131 @@
+{
+  "supermercados": [
+    {
+      "nombre": "carrefour",
+      "productos": [
+        {
+          "nombre": "cereales chocapic",
+          "oferta": true,
+          "periodoVigenciaOferta": {
+            "fechaInicio": "2022-03-01",
+            "fechaFin": "2022-04-01"
+          },
+
+          "habitual": true,
+          "unidades": 1,
+          "unidadesDeMedida": "caja",
+          "precio": 3.5,
+          "adquirido": true
+        },
+        {
+          "nombre": "arroz blanco",
+          "oferta": false,
+          "habitual": true,
+          "unidades": 1,
+          "unidadesDeMedida": "kilo",
+          "precio": 1.5,
+          "adquirido": true
+        },
+        {
+          "nombre": "aceite de girasol",
+          "oferta": false,
+          "habitual": false,
+          "unidades": 1,
+          "unidadesDeMedida": "litro",
+          "precio": 8,
+          "adquirido": true
+        }
+      ],
+      "direccion": "Camino Polo, 3",
+      "geolocalizacion": "25.5N161O"
+    },
+    {
+      "nombre": "tesco",
+      "productos": [
+        {
+          "nombre": " huevo a la escocesa",
+          "oferta": true,
+          "periodoVigenciaOferta": {
+            "fechaInicio": "2022-03-14",
+            "fechaFin": "2022-08-14"
+          },
+
+          "habitual": false,
+          "unidades": 1,
+          "unidadesDeMedida": "bolsa",
+          "precio": 1.86,
+          "adquirido": true
+        },
+        {
+          "nombre": "chocolate cadbury",
+          "oferta": true,
+          "periodoVigenciaOferta": {
+            "fechaInicio": "2020-03-01",
+            "fechaFin": "2022-04-01"
+          },
+
+          "habitual": false,
+          "unidades": 1,
+          "unidadesDeMedida": "barra",
+          "precio": 3.5,
+          "adquirido": false
+        },
+        {
+          "nombre": "irn bru",
+          "oferta": false,
+          "habitual": true,
+          "unidades": 1,
+          "unidadesDeMedida": "litro",
+          "precio": 2.2,
+          "adquirido": true
+        }
+      ],
+      "direccion": "Distrito Qacha's Nek",
+      "geolocalizacion": " 30S29E"
+    },
+    {
+      "nombre": "ALDI",
+      "productos": [
+        {
+          "nombre": "tomate al natural",
+          "oferta": true,
+          "periodoVigenciaOferta": {
+            "fechaInicio": "2022-02-28",
+            "fechaFin": "2022-04-28"
+          },
+
+          "habitual": false,
+          "unidades": 1,
+          "unidadesDeMedida": "lata",
+          "precio": 0.6,
+          "adquirido": false
+        },
+        {
+          "nombre": "morcilla canaria",
+          "oferta": false,
+          "habitual": true,
+          "unidades": 15,
+          "unidadesDeMedida": "kilos",
+          "precio": 20,
+          "adquirido": true
+        },
+        {
+          "nombre": "salmón",
+          "oferta": true,
+          "periodoVigenciaOferta": {
+            "fechaInicio": "2022-03-01",
+            "fechaFin": "2022-03-29"
+          },
+
+          "habitual": false,
+          "unidades": 3,
+          "unidadesDeMedida": "kilos",
+          "precio": 40,
+          "adquirido": true
+        }
+      ],
+      "direccion": "Sendero Telesforo Bravo, 3",
+      "geolocalizacion": "28.27220N,16.6420O"
+    }
+  ]
+}

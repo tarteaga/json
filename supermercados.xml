@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listaCompra>
+   <supermercados>
+      <element>
+         <direccion>Camino Polo, 3</direccion>
+         <geolocalizacion>25.5N161O</geolocalizacion>
+         <nombre>carrefour</nombre>
+         <productos>
+            <element>
+               <adquirido>true</adquirido>
+               <habitual>true</habitual>
+               <nombre>cereales chocapic</nombre>
+               <oferta>true</oferta>
+               <periodoVigenciaOferta>
+                  <fechaFin>2022-04-01</fechaFin>
+                  <fechaInicio>2022-03-01</fechaInicio>
+               </periodoVigenciaOferta>
+               <precio>3.5</precio>
+               <unidades>1</unidades>
+               <unidadesDeMedida>caja</unidadesDeMedida>
+            </element>
+            <element>
+               <adquirido>true</adquirido>
+               <habitual>true</habitual>
+               <nombre>arroz blanco</nombre>
+               <oferta>false</oferta>
+               <precio>1.5</precio>
+               <unidades>1</unidades>
+               <unidadesDeMedida>kilo</unidadesDeMedida>
+            </element>
+            <element>
+               <adquirido>true</adquirido>
+               <habitual>false</habitual>
+               <nombre>aceite de girasol</nombre>
+               <oferta>false</oferta>
+               <precio>8</precio>
+               <unidades>1</unidades>
+               <unidadesDeMedida>litro</unidadesDeMedida>
+            </element>
+         </productos>
+      </element>
+      <element>
+         <direccion>Distrito Qacha's Nek</direccion>
+         <geolocalizacion> 30S29E</geolocalizacion>
+         <nombre>tesco</nombre>
+         <productos>
+            <element>
+               <adquirido>true</adquirido>
+               <habitual>false</habitual>
+               <nombre> huevo a la escocesa</nombre>
+               <oferta>true</oferta>
+               <periodoVigenciaOferta>
+                  <fechaFin>2022-08-14</fechaFin>
+                  <fechaInicio>2022-03-14</fechaInicio>
+               </periodoVigenciaOferta>
+               <precio>1.86</precio>
+               <unidades>1</unidades>
+               <unidadesDeMedida>bolsa</unidadesDeMedida>
+            </element>
+            <element>
+               <adquirido>false</adquirido>
+               <habitual>false</habitual>
+               <nombre>chocolate cadbury</nombre>
+               <oferta>true</oferta>
+               <periodoVigenciaOferta>
+                  <fechaFin>2022-04-01</fechaFin>
+                  <fechaInicio>2020-03-01</fechaInicio>
+               </periodoVigenciaOferta>
+               <precio>3.5</precio>
+               <unidades>1</unidades>
+               <unidadesDeMedida>barra</unidadesDeMedida>
+            </element>
+            <element>
+               <adquirido>true</adquirido>
+               <habitual>true</habitual>
+               <nombre>irn bru</nombre>
+               <oferta>false</oferta>
+               <precio>2.2</precio>
+               <unidades>1</unidades>
+               <unidadesDeMedida>litro</unidadesDeMedida>
+            </element>
+         </productos>
+      </element>
+      <element>
+         <direccion>Sendero Telesforo Bravo, 3</direccion>
+         <geolocalizacion>28.27220N,16.6420O</geolocalizacion>
+         <nombre>ALDI</nombre>
+         <productos>
+            <element>
+               <adquirido>false</adquirido>
+               <habitual>false</habitual>
+               <nombre>tomate al natural</nombre>
+               <oferta>true</oferta>
+               <periodoVigenciaOferta>
+                  <fechaFin>2022-04-28</fechaFin>
+                  <fechaInicio>2022-02-28</fechaInicio>
+               </periodoVigenciaOferta>
+               <precio>0.6</precio>
+               <unidades>1</unidades>
+               <unidadesDeMedida>lata</unidadesDeMedida>
+            </element>
+            <element>
+               <adquirido>true</adquirido>
+               <habitual>true</habitual>
+               <nombre>morcilla canaria</nombre>
+               <oferta>false</oferta>
+               <precio>20</precio>
+               <unidades>15</unidades>
+               <unidadesDeMedida>kilos</unidadesDeMedida>
+            </element>
+            <element>
+               <adquirido>true</adquirido>
+               <habitual>false</habitual>
+               <nombre>salmón</nombre>
+               <oferta>true</oferta>
+               <periodoVigenciaOferta>
+                  <fechaFin>2022-03-29</fechaFin>
+                  <fechaInicio>2022-03-01</fechaInicio>
+               </periodoVigenciaOferta>
+               <precio>40</precio>
+               <unidades>3</unidades>
+               <unidadesDeMedida>kilos</unidadesDeMedida>
+            </element>
+         </productos>
+      </element>
+   </supermercados>
+</listaCompra>
